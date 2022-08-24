@@ -3193,3 +3193,9 @@ p.copyright {
     visibility: hidden;
   }
 }
+
+@media screen and (max-width: 700px) {
+  .kontak {
+    margin-left:11rem!important;
+  }
+}
